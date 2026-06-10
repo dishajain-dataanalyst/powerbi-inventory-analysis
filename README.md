@@ -196,7 +196,7 @@ Dataset: WarmeHands Inc. (DataCamp case study dataset).
 
 I'm **Disha Jain**, an Analytics & BI Professional with 3+ years of experience building Power BI dashboards, ETL pipelines, and data models in production. Microsoft Power BI Certified.
 
-**Skills:** Power BI · DAX · SQL · Tableau · Python · Alteryx · Azure · ETL · Data Modeling
+**Skills:** Power BI · DAX · SQL · Tableau · Python · Alteryx · Azure · ETL · Data Modeling 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dishadineshjain)
 [![AdventureWorks Report](https://img.shields.io/badge/Related-Power_BI_AdventureWorks-blue?style=for-the-badge)](https://github.com/dishajain-dataanalyst/powerbi-adventureworks)
